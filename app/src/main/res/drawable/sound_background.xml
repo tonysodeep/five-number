@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" >
+    <stroke android:width="@dimen/button_choice_border" android:color="@color/button_choice_text_color" />
+    <gradient
+        android:startColor="@color/start_sound_button"
+        android:endColor="@color/end_sound_button"
+        android:angle="270" />
+</shape>

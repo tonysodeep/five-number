@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FiveNumberTony</string>
+    <string name="tv_text">Score: 0</string>
+    <string name="tv_begin_game">select numbers in ascending order</string>
+    <string name="app_id">183455593993</string>
+    <string name="leaderbroadID">CgkIiey4tqsFEAIQAQ</string>
+</resources>

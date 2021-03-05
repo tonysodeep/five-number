@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_choice_border">5dp</dimen>
+    <dimen name="button_choice_text_size">25sp</dimen>
+    <dimen name="button_choice_width">80dp</dimen>
+    <dimen name="button_choice_height">80dp</dimen>
+    <dimen name="tv_score_width">200dp</dimen>
+    <dimen name="tv_text_size">30sp</dimen>
+    <dimen name="button_sound_width">50</dimen>
+    <dimen name="button_sound_height">50</dimen>
+</resources>

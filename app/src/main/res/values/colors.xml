@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="border_button_1">#FF3A03</color>
+    <color name="border_button_2">#FFCD03</color>
+    <color name="border_button_3">#45F40B</color>
+    <color name="border_button_4">#03FFEA</color>
+    <color name="border_button_5">#C403FF</color>
+    <color name="border_background_buttons">#F4F2F5</color>
+
+    <color name="background_button_1">#FF3A03</color>
+    <color name="background_button_2">#FFCD03</color>
+    <color name="background_button_3">#45F40B</color>
+    <color name="background_button_4">#03FFEA</color>
+    <color name="background_button_5">#C403FF</color>
+
+
+    <color name="button_choice_text_color">#010101</color>
+
+    <color name="tv_text_score">#FFC107</color>
+
+    <color name="start_sound_button">#9FD3B7</color>
+    <color name="end_sound_button">#F40337</color>
+</resources>
